@@ -1,0 +1,9 @@
+
+
+F[i][s]: có bao nhiêu cách điền tiếp nhau để được số nguyên tố
+
+ll F[17][14*9+1] = -1;
+
+ll tinh(i, s) {
+    
+}

@@ -1,0 +1,24 @@
+
+
+k: số thành phần liên thông của G
+Bổ sung k-1 cạnh đeẻ G trở thành đồ thị liên thông  
+ ---> Có bào nhiêu cách
+
+
+
+ mỗi thành phần liên tông có thể coi như là một siêu đỉnh
+ Kết quả bổ sung cạnh cho ta được 1 câu khung k đỉnh
+
+ có thể nối 2 siể đỉnh
+ ssó cách nối k siêu đỉnh  <---> số câu khung trong đồ thị đầy đủ k đỉnh
+
+
+ Số cách chọn k-2 số, trong đó số i lặp đúng .. lần
+
+ s1 * s2 * ... * sk * n^(k-2)
+
+ k: số miền liên thông 
+ si: kích thước (số đỉnh ) của mỗi miền liên thông
+
+
+
